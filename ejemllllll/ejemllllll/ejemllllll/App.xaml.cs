@@ -13,6 +13,7 @@ namespace ejemllllll
 
 			MainPage = new MainPage();
             string x = "Soy tu padre";
+            string y = "me la perez";
 		}
 
 		protected override void OnStart()
