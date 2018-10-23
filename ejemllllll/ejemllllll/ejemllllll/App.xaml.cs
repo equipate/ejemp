@@ -12,7 +12,7 @@ namespace ejemllllll
 			InitializeComponent();
 
 			MainPage = new MainPage();
-            string x = "";
+            string x = "Soy tu padre";
 		}
 
 		protected override void OnStart()
