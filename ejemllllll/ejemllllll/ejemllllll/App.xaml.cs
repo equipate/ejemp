@@ -12,6 +12,7 @@ namespace ejemllllll
 			InitializeComponent();
 
 			MainPage = new MainPage();
+            string x = "";
 		}
 
 		protected override void OnStart()
